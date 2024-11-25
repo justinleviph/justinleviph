@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @justinleviph
+- 👀 I’m interested in software development, machine learning, and open-source contributions.
+- 🌱 I’m currently learning advanced Python programming and data science.
+- 💞️ I’m looking to collaborate on projects involving AI and web development.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/justinlevinudalo/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a Civil Engineer and Musician.
